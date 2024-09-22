@@ -1,0 +1,13 @@
+{
+  "tasks": {
+    "dev": "deno run -A --watch mod.ts"
+  },
+  "imports": {
+    "grammy/": "https://lib.deno.dev/x/grammy@1/",
+    "grammy_storages/": "https://lib.deno.dev/x/grammy_storages@v2/"
+  },
+  "fmt": {
+    "indentWidth": 2,
+    "lineWidth": 120
+  }
+}
