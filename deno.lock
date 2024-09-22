@@ -7,7 +7,8 @@
     "https://lib.deno.dev/x/grammy@1/mod.ts": "https://deno.land/x/grammy@v1.29.0/mod.ts",
     "https://lib.deno.dev/x/grammy@1/types.ts": "https://deno.land/x/grammy@v1.29.0/types.ts",
     "https://lib.deno.dev/x/grammy_storages@v2/denokv/src/mod.ts": "https://deno.land/x/grammy_storages@v2.4.2/denokv/src/mod.ts",
-    "https://lib.deno.dev/x/zod/mod.ts": "https://deno.land/x/zod/mod.ts"
+    "https://lib.deno.dev/x/zod/mod.ts": "https://deno.land/x/zod/mod.ts",
+    "https://lib.deno.dev/x/zod@3/mod.ts": "https://deno.land/x/zod@v3.23.8/mod.ts"
   },
   "remote": {
     "https://cdn.skypack.dev/-/debug@v4.3.4-o4liVvMlOnQWbLSYZMXw/dist=es2019,mode=imports/optimized/debug.js": "671100993996e39b501301a87000607916d4d2d9f8fc8e9c5200ae5ba64a1389",
