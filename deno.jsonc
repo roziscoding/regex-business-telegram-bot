@@ -1,10 +1,12 @@
 {
   "tasks": {
-    "dev": "deno run -A --watch mod.ts"
+    "dev": "deno run -A --watch mod.ts",
+    "setwebhook": "deno run -A set-webhook.ts"
   },
   "imports": {
     "grammy/": "https://lib.deno.dev/x/grammy@1/",
-    "grammy_storages/": "https://lib.deno.dev/x/grammy_storages@v2/"
+    "grammy_storages/": "https://lib.deno.dev/x/grammy_storages@v2/",
+    "zod": "https://lib.deno.dev/x/zod@3/mod.ts"
   },
   "fmt": {
     "indentWidth": 2,
